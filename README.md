@@ -19,7 +19,7 @@ R.LOHIT VARDHAN_IIT MANDI_COMPUTER SCIENCE ENGINEERING
 Clone the project
 
 ```bash
-  git clone https://github.com/piyush-eon/mern-chat-app
+  https://github.com/Lohitvardhan/chat-app
 ```
 
 Go to the project directory
