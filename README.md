@@ -12,9 +12,8 @@ R.LOHIT VARDHAN_IIT MANDI_COMPUTER SCIENCE ENGINEERING
   
 ## Demo
 
-[https://talk-a-tive.herokuapp.com/](https://talk-a-tive-7fgq.onrender.com)
+[https://Lohit_chatapp.com/](https://talk-a-tive-7fgq.onrender.com)
 
-![](https://github.com/piyush-eon/mern-chat-app/blob/master/screenshots/group%20%2B%20notif.PNG)
 ## Run Locally
 
 Clone the project
@@ -53,10 +52,5 @@ Start the Client
   npm start
 ```
 
-  
-
-## Made By
-
-- [@Piyush-eon](https://github.com/piyush-eon)
 
   
