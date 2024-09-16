@@ -10,7 +10,7 @@ R.LOHIT VARDHAN_IIT MANDI_COMPUTER SCIENCE ENGINEERING
 
 **Database:** Mongo DB
   
-## Demo
+## Demo(You can go to the APP directly from here)
 
 [https://Lohit_chatapp.com/](https://talk-a-tive-7fgq.onrender.com)
 
